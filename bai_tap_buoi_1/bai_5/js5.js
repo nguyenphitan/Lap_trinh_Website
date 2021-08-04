@@ -1,3 +1,3 @@
-let a = Number(prompt('Enter the temperature in Celsius:'));
-let b = a * 1.8 + 32;
-alert(`${a} (C) = ${b} (F)`);
+let celsius = Number(prompt('Enter the temperature in Celsius:'));
+let b = celsius * 1.8 + 32;
+alert(`${celsius} (C) = ${b} (F)`);
