@@ -1,2 +1,2 @@
-let a = Number(prompt('Enter side:'));
-alert('Area = ' + a * a);
+let side = Number(prompt('Enter side:'));
+alert('Area = ' + side * side);
