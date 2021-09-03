@@ -1,0 +1,63 @@
+.header {
+    width: 70%;
+    margin: 0 15%;
+}
+
+.header i {
+    font-size: 30px;
+    color: #e7be72;
+    margin-top: -5%;
+}
+
+.all {
+    width: 70%;
+    display: flex;
+    margin: 2% 15%;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* Left */
+.info {
+    width: 22%;
+    margin-right: 5%;
+}
+
+.listInfo {
+    color: #9b9b9b;
+}
+
+.listInfo {
+    margin-left: -15%;
+}
+
+.listInfo li {
+    margin-top: 10%;
+}
+
+/* Right */
+
+.message {
+    width: 68%;
+    margin-left: 5%;
+}
+
+input, textarea {
+    width: 100%;
+}
+
+input {
+    height: 8%;
+}
+
+button {
+    background-color: #0eb6ba;
+    border: none;
+    color: whitesmoke;
+    width: 35%;
+    height: 10%;
+    cursor: pointer;
+}
+

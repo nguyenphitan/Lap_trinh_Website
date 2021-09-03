@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.all {
+    width: 70%;
+    margin: 0 15%;
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 5%;
+}
+
+p, li {
+    color: #a9a9a9;
+}
+
+/* Left */
+.box {
+    background-color: black;
+    color: whitesmoke;
+    width: 40%;
+    text-align: center;
+}
+.box span {
+    font-size: 30px;
+    position: relative;
+    top: 50%;
+}
+
+/* Right */
+.content {
+    width: 55%;
+    margin-left: 5%;
+}
+
+.headerContent {
+    height: 50%;
+    width: 100%;
+}
+
+.headerContent i {
+    color: #657fd8;
+    font-size: 40px;
+}
+
+.listContent {
+    height: 40%;
+    width: 100%;
+    display: flex;
+}
+
+.listContent ul {
+    width: 40%;
+    margin-right: 15%;
+}
+
+.item i {
+    color: #7ba8c8;
+}
+

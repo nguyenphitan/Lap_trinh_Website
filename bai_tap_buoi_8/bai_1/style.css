@@ -1,0 +1,81 @@
+body{
+    margin: 5px;
+    padding: 0;
+}
+
+.all {
+    display: flex;
+    width: 95%;
+    height: 600px;
+    margin: 5px 2.5%;
+}
+
+/* Box */
+.box {
+    width: 33.33%;
+    height: 100%;
+    background-color: #67d469;
+    text-align: center;
+}
+
+.box p {
+    color: whitesmoke;
+    font-size: 30px;
+    margin-top: 300px;
+}
+
+/* Content */
+.content {
+    width: 66.67%;
+    height: 100%;
+}
+
+/* Content - Header */
+.header {
+    margin-left: 7%;
+    color: #1C1C1C;
+}
+
+.header p {
+    color: #b8b8b8;
+    margin-top: 5%;
+}
+
+/* List - Content */
+
+.listContent {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 3.3%;
+}
+
+.listContent .item {
+    width: 33.33%;
+}
+
+.item .list-item {
+    list-style-type: none;
+    color: #b8b8b8;
+}
+
+.list-item li {
+    margin: 5px;
+}
+
+.list-item .fa-check {
+    color: #01b9d1;
+}
+
+/* Button */
+.click {
+    margin-top: 10%;
+    margin-left: 7%;
+    width: 34%;
+    height: 7%;
+    text-align: center;
+    background-color: #01b9d1;
+    border: 0;
+    color: whitesmoke;
+    cursor: pointer;
+}
+

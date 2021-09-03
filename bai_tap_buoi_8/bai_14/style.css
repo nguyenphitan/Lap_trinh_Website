@@ -1,0 +1,28 @@
+.content-right {
+    width: 50%;
+    height: 100%;
+    margin: 0 25%;
+    background-color: rgb(229, 226, 226);
+    padding-bottom: 5%;
+}
+
+.list {
+    display: flex;
+    width: 100%;
+}
+
+.box-H {
+    width: 25%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #d998db;
+    text-align: center;
+    margin: 3% 3% 0 5%;
+}
+
+.box-H p {
+    color: whitesmoke;
+    position: relative;
+    top: -5px;
+    font-size: 30px;
+}

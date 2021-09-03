@@ -1,0 +1,33 @@
+.all {
+    width: 80%;
+    margin: 0 10%;
+    background-color: #f2f3f5;
+}
+
+input, button, textarea {
+    border: none;
+    color: black;
+}
+
+/* Input */
+input {
+    width: 40%;
+    margin: 3% 4.2% 1%;
+    height: 35px;
+}
+
+/* Content */
+.content {
+    width: 90%;
+    margin: 4% 4.2%;
+}
+
+button {
+    width: 90%;
+    margin: 0 4.2% 4%;
+    background-color: rgb(27, 26, 26);
+    height: 35px;
+    font-weight: 600;
+    color: #f2f3f5;
+    cursor: pointer;
+}

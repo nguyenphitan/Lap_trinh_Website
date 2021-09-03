@@ -1,0 +1,29 @@
+.all {
+    width: 70%;
+    margin: 0 15%;
+}
+
+/* Header */
+.header {
+    color: #f8d133;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+/* Content */
+.content {
+    width: 100%;
+    display: flex;
+}
+
+.contentOne, .contentTwo {
+    width: 100%;
+    display: flex;
+}
+
+.item {
+    margin: 10% 10% 0 0;
+    text-align: center;
+}
+

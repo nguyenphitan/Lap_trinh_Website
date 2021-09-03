@@ -1,0 +1,27 @@
+.all {
+    width: 80%;
+    margin: 0 10%;
+}
+
+/* Header */
+header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+/* Content */
+.content {
+    display: flex;
+}
+
+.letter {
+    width: 20%;
+    margin-right: 10%;
+    box-shadow: 5px 0px 5px 5px grey;
+    text-align: center;
+}
+
+.para {
+    width: 70%;
+}
