@@ -1,0 +1,163 @@
+1.Which properties used to set a specific size an element?
+
+width, height
+
+2.Give a solution to avoid overflow ?
+
+overflow: hidden;
+
+3. How to calculate the margin and padding of a child element in percentage?
+
+margin: ...%;
+padding: ...%;
+left: ...%;
+...
+
+4. Understand what is viewport and viewport unit ?
+
+Viewport là khu vực mà người dùng có thể dòm thấy nội dung của trang web. Có thể tạm dịch là KHUNG NHÌN.
+Đơn vị: vw, vh, vmin, vmax
+
+5. Understand background-color property?
+
+background-color là nền của website là các màu
+background-color: #fff;
+
+6. Understand background-image property?
+
+nền của website là hình ảnh
+background-image: ... ;
+
+7. How to control background-repeat?
+
+repeat: ...;
+
+8. How to set size and position background image?
+
+width, height
+position: ...;
+top, left, ...
+
+9. Able to create multiple background images?
+
+có
+rgba()
+opacity
+
+10. Able to use background shorthand property?
+
+background: ... ;
+
+11.  Understand CSS border property?
+
+Để thêm đường viền cho phần tử HTML bạn sử dụng thuộc tính CSS có tên border
+border: 2px solid #fff;
+
+12. Understand  border-width property?
+
+set chiều chiều rộng của border
+
+13. Understand border-color property?
+
+set màu sắc của border
+
+14. Able to use border shorthand property?
+
+border: 2px solid #fff;
+
+15. Able to create rounded images?
+
+border-radius: .. ;
+
+16. Able to center an image?
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+17. Able to responsive an image?
+
+width: .. %;
+height: ...%;
+
+18. Able to create an transparent image?
+
+opacity:...;
+
+19. Understand how to style input fields?
+
+
+
+
+20. How many categories of CSS propeties used to style text? What are they?
+
+3 cách
+internal, external, inline
+
+21. Able to set color to the text?
+
+color: #fff;
+
+22. Understand font-family property?
+
+thiết lập font chữ của văn bản trong phần tử
+font-family: ...;
+
+23. Understand font-size property?
+
+set kích thước, cỡ chữ
+font-size: 16px;
+
+24. Understand font-style property?
+
+set kiểu chữ (nghiêng, ...)
+
+25. Understand font-weight property?
+
+set độ đậm nhạt 
+
+26. Understand text-transform property?
+
+thiết lập các ký tự viết hoa cho văn bản
+text-transform: ...;
+
+27. Understand text-decoration property?
+
+thiết lập một đường trang trí cho văn bản
+
+28. Understand text layout styles?
+
+thiết kế bố cục
+
+29. Able to style the bullet of list?
+
+list-style-type
+
+30, 32. Able to position the bullet of list?
+
+list-style-position
+
+31, 33. Able to custom bullet image?
+
+list-style-image
+
+34. Able to use list-style shorthand property?
+
+list-style: ...;
+
+35. Understand what is web font?
+
+Web font là font chữ được các nhà thiết kế website đưa lên host của website,
+không cần cài đặt vào máy tính của người dùng.
+
+36. Understand what is @font-face?
+
+@font-face cho phép bạn tạo ra một phông chữ (font) tùy biến với dữ liệu phông
+là một phông được cài đặt sẵn trong máy tính người dùng hoặc từ một URL.
+
+
+
+
+
+
+
