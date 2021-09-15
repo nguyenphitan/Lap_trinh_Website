@@ -1,0 +1,30 @@
+/* Bài 1 */
+.ex1, .ex2, .ex3, .ex4 {
+    position: absolute;
+}
+.box1, .box2, .box3, .box4  {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+.box5 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+}
+
+.ex2 {
+    right: 20%;
+}
+
+.ex3 {
+    bottom: 0;
+}
+
+.ex4 {
+    right: 20%;
+    bottom: 0;
+}
